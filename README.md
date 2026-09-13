@@ -1,4 +1,5 @@
 # Pujo Atlas Data Validator
+> data base needs to be added separately
 
 - clone the repo
   ```
