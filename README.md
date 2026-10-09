@@ -14,3 +14,9 @@
   ```
   streamlit  run validator.py
   ```
+
+> zoneing.py
+> creates zone based on postal code divisions
+```
+python -m zoneing.py 
+```
